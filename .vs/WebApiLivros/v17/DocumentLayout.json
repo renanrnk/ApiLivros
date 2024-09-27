@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|c:\\desenvolvimento\\c#\\projetos\\webapilivros\\webapilivros\\services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|solutionrelative:webapilivros\\services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|c:\\desenvolvimento\\c#\\projetos\\webapilivros\\webapilivros\\services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|solutionrelative:webapilivros\\services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|c:\\desenvolvimento\\c#\\projetos\\webapilivros\\webapilivros\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|solutionrelative:webapilivros\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|c:\\desenvolvimento\\c#\\projetos\\webapilivros\\webapilivros\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|solutionrelative:webapilivros\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|c:\\desenvolvimento\\c#\\projetos\\webapilivros\\webapilivros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|solutionrelative:webapilivros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|c:\\desenvolvimento\\c#\\projetos\\webapilivros\\webapilivros\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|solutionrelative:webapilivros\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|c:\\desenvolvimento\\c#\\projetos\\webapilivros\\webapilivros\\models\\livromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|solutionrelative:webapilivros\\models\\livromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Migrations\\20240926143034_CriandoBancoDeDados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApiLivros\\Migrations\\20240926143034_CriandoBancoDeDados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|c:\\desenvolvimento\\c#\\projetos\\webapilivros\\webapilivros\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|solutionrelative:webapilivros\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|c:\\desenvolvimento\\c#\\projetos\\webapilivros\\webapilivros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|solutionrelative:webapilivros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|c:\\desenvolvimento\\c#\\projetos\\webapilivros\\webapilivros\\webapilivros.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CA3A946A-703E-46D5-81DA-421EAA80250B}|WebApiLivros\\WebApiLivros.csproj|solutionrelative:webapilivros\\webapilivros.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "WebApiLivros\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "WebApiLivros\\Controllers\\AutorController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:23:43.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "WebApiLivros\\Models\\ResponseModel.cs",
+              "ToolTip": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "WebApiLivros\\Models\\ResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:15:03.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAutorInterface.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Services\\Autor\\IAutorInterface.cs",
+              "RelativeDocumentMoniker": "WebApiLivros\\Services\\Autor\\IAutorInterface.cs",
+              "ToolTip": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Services\\Autor\\IAutorInterface.cs",
+              "RelativeToolTip": "WebApiLivros\\Services\\Autor\\IAutorInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:09:36.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Services\\Autor\\AutorService.cs",
+              "RelativeDocumentMoniker": "WebApiLivros\\Services\\Autor\\AutorService.cs",
+              "ToolTip": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Services\\Autor\\AutorService.cs",
+              "RelativeToolTip": "WebApiLivros\\Services\\Autor\\AutorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:09:09.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240926143034_CriandoBancoDeDados.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Migrations\\20240926143034_CriandoBancoDeDados.cs",
+              "RelativeDocumentMoniker": "WebApiLivros\\Migrations\\20240926143034_CriandoBancoDeDados.cs",
+              "ToolTip": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Migrations\\20240926143034_CriandoBancoDeDados.cs",
+              "RelativeToolTip": "WebApiLivros\\Migrations\\20240926143034_CriandoBancoDeDados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:30:34.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiLivros\\Program.cs",
+              "ToolTip": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Program.cs",
+              "RelativeToolTip": "WebApiLivros\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:26:51.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiLivros\\appsettings.json",
+              "ToolTip": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\appsettings.json",
+              "RelativeToolTip": "WebApiLivros\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T14:25:41.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LivroModel.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Models\\LivroModel.cs",
+              "RelativeDocumentMoniker": "WebApiLivros\\Models\\LivroModel.cs",
+              "ToolTip": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Models\\LivroModel.cs",
+              "RelativeToolTip": "WebApiLivros\\Models\\LivroModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:20:54.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutorModel.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Models\\AutorModel.cs",
+              "RelativeDocumentMoniker": "WebApiLivros\\Models\\AutorModel.cs",
+              "ToolTip": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Models\\AutorModel.cs",
+              "RelativeToolTip": "WebApiLivros\\Models\\AutorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:20:45.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiLivros\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApiLivros\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:00.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebApiLivros",
+              "DocumentMoniker": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\WebApiLivros.csproj",
+              "RelativeDocumentMoniker": "WebApiLivros\\WebApiLivros.csproj",
+              "ToolTip": "C:\\Desenvolvimento\\C#\\Projetos\\WebApiLivros\\WebApiLivros\\WebApiLivros.csproj",
+              "RelativeToolTip": "WebApiLivros\\WebApiLivros.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-26T14:16:19.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
