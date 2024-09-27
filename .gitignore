@@ -1,0 +1,96 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.sln.ide
+*.VC.db
+*.VC.opendb
+
+# Build results
+bin/
+obj/
+debug/
+release/
+[Bb]uild/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]*/
+[Aa][Rr][Mm]64*/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# Web-specific
+publish/
+*.publishsettings
+*.[Pp]ublish.xml
+.project
+__pycache__/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotNetCore
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs and database files
+*.log
+*.ldf
+*.mdf
+*.ndf
+*.jfm
+
+# Azure Deployment
+.auroradeploy
+.swa/
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+out/
+
+# Npm packages (if you are using Node.js for front-end in your project)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# WebAssembly artifacts
+*.wasm
+*.wat
+*.wast
+
+# Diagnostic
+*.stackdump
