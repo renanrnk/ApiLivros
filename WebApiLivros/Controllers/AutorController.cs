@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using WebApiLivros.Dto.Autor;
 using WebApiLivros.Models;
 using WebApiLivros.Services.Autor;
 
@@ -26,6 +27,13 @@ namespace WebApiLivros.Controllers
         {
             var autor = await _AutorInterface.BuscarAutorPorId(idAutor);
             return Ok(autor);
+        }
+
+        [HttpPost("CriarAutor")]
+        public async Task<ActionResult<ResponseModel<AutorModel>>> CriarAutor(AutorCriacaoDto autorCriacaoDto)
+        {
+            var autores = await _AutorInterface.CriarAutor(autorCriacaoDto);
+            return Ok(autores);
         }
     }
 }

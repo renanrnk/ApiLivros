@@ -135,3 +135,4 @@ C:\Desenvolvimento\C#\Projetos\WebApiLivros\WebApiLivros\obj\Debug\net8.0\refint
 C:\Desenvolvimento\C#\Projetos\WebApiLivros\WebApiLivros\obj\Debug\net8.0\WebApiLivros.pdb
 C:\Desenvolvimento\C#\Projetos\WebApiLivros\WebApiLivros\obj\Debug\net8.0\WebApiLivros.genruntimeconfig.cache
 C:\Desenvolvimento\C#\Projetos\WebApiLivros\WebApiLivros\obj\Debug\net8.0\ref\WebApiLivros.dll
+C:\Desenvolvimento\C#\Projetos\WebApiLivros\WebApiLivros\obj\Debug\net8.0\WebApiLivros.sourcelink.json
